@@ -12,7 +12,7 @@ const Card = (props) =>
         {props.name}      
       </div>
       <div>
-        {props.html_url} 
+        <a target="_blank" href={props.html_url}>{props.html_url}</a> 
       </div>
     </div>
   </div>
