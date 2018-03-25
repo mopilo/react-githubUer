@@ -1,1 +1,1 @@
-A React application using Github Api. 
+A React application using Github Api to get Github users.
